@@ -6,7 +6,7 @@ This repository contains the official implementation of **“DHA: A Discrepancy-
 The source code, complete pretrained model, and evaluation configuration used in this release are publicly available. The evaluation scripts report numerical metrics and save results as JSON files.
 
 ## Weights
-https://drive.google.com/drive/folders/1FsK3P2Hzz3adcNLM-vu91ggF3uDVLH4C?usp=drive_link
+([download weights](https://drive.google.com/drive/folders/1FsK3P2Hzz3adcNLM-vu91ggF3uDVLH4C?usp=drive_link)).
 
 ## 📝 Citation
 
